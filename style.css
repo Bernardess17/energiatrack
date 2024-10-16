@@ -1,0 +1,129 @@
+.cabeçalho {
+  display: flex;
+  width: 100%;
+  height: 148px;
+  background: #05845c;
+}
+
+.logo {
+  display: flex;
+  height: 73px;
+  margin-top: 38px;
+  margin-left: 80px;
+}
+
+.cadastrado span {
+  display: flex;
+}
+
+.cadastrado span {
+  display: flex;
+  margin-left: 950px;
+  margin-top: 61px;
+  font-size: 29px;
+  font-family: sans-serif;
+}
+.span {
+  display: flex;
+}
+.cadastrado button {
+  display: flex;
+  margin-left: 1041px;
+  margin-top: -38px;
+  border-radius: 7px;
+  width: 206px;
+  height: 41px;
+  padding-left: 65px;
+  padding-top: 14px;
+  background: #74bc94;
+  border: none;
+  color: white;
+}
+
+.contato {
+  background: #74bc94;
+  height: 566px;
+}
+
+.contato span {
+  display: flex;
+  width: 200px;
+  margin-left: 145px;
+  margin-top: 65px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.contato p {
+  display: flex;
+  width: 200px;
+  margin-left: 145px;
+  margin-top: 23px;
+  font-family: sans-serif;
+  color: white;
+}
+.contato button {
+  display: flex;
+  width: 206px;
+  height: 41px;
+  padding-left: 47px;
+  padding-top: 13px;
+  background: #74bc94;
+  color: white;
+  margin-left: 143px;
+  margin-top: 15px;
+  border-radius: 7px;
+  border: 1px solid white;
+}
+
+.contato img {
+  display: flex;
+  margin-left: 690px;
+  margin-top: -478px;
+  font-family: sans-serif;
+}
+
+.simulacao img {
+  margin-left: -1px;
+  height: 282px;
+}
+
+.sub-informaçao {
+  display: flex;
+  border: 1px solid black;
+  width: 100%;
+  height: 600px;
+}
+
+.sub1 img {
+  margin-top: 60px;
+  display: flex;
+  width: 604px;
+  margin-left: 31px;
+}
+
+.sub-informaçao p {
+  display: flex;
+  width: 374px;
+  font-size: 19px;
+  margin-top: -146px;
+  margin-left: 144px;
+  color: white;
+}
+.sub-informaçao img {
+  display: flex;
+}
+
+.informaçao2 {
+  display: flex;
+  width: 555px;
+  margin-top: 60px;
+  margin-left: 78px;
+}
+
+/* .informaçao2 p {
+  display: flex;
+  margin-top: 45px;
+  width: 653px;
+  margin-left: 76px;
+} */
